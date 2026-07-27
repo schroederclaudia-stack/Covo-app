@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "name": "Covo",
+    "slug": "covo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#FDF7F3"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.covo.app"
+    },
+    "android": {
+      "package": "com.covo.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FDF7F3"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

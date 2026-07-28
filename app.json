@@ -2,6 +2,7 @@
   "expo": {
     "name": "Covo",
     "slug": "covo",
+    "owner": "thatsclaudis-team",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "light",
@@ -17,6 +18,11 @@
       "package": "com.covo.app",
       "adaptiveIcon": {
         "backgroundColor": "#FDF7F3"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "229ee9f6-9fc4-46ea-b4e5-7fc503b210ac"
       }
     }
   }

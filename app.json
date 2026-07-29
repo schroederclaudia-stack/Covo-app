@@ -20,6 +20,16 @@
         "backgroundColor": "#FDF7F3"
       }
     },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "kotlinVersion": "1.9.25"
+          }
+        }
+      ]
+    ],
     "extra": {
       "eas": {
         "projectId": "229ee9f6-9fc4-46ea-b4e5-7fc503b210ac"
